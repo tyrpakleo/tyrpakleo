@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tyrpakleo
-- 👀 I’m interested in probability, PDE's and simulating stochastic processes
-- 🌱 I’m currently doing a PhD in mathematics, with a special focus on stochastic processes at the University of Oxford (September 2023-September 2027)
-- 💞️ I’m looking to collaborate on spatial stochastic processes in biology
-- 📫 How to reach me leo.tyrpak@stats.ox.ac.uk
+- 👀 I’m interested in Probability Theory, SDE's and Diffusion Models for ML.
+- 🌱 I’m currently doing a PhD in Mathematics, with a focus on stochastic processes, at the University of Oxford (September 2023-September 2027).
+- 💞️ I’m looking to collaborate on statistical mechanics or diffusion models.
+- 📫 Reach me at leo.tyrpak@stats.ox.ac.uk
